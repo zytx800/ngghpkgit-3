@@ -8,7 +8,7 @@
   "dependencies": {
     "@angular/common": "^9.0.6",
     "@angular/core": "^9.1.7",
-    "@dagonmetric/ng-config": "^2.2.2",
+    "@dagonmetric/ng-config": "^4.0.1",
     "@dagonmetric/ng-log": "^2.2.2",
     "@dagonmetric/ng-log-firebase-analytics": "^1.0.1",
     "rxjs": "^6.5.5",
