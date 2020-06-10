@@ -11,7 +11,7 @@
     "@dagonmetric/ng-config": "^2.2.2",
     "@dagonmetric/ng-log": "^2.2.2",
     "@dagonmetric/ng-log-firebase-analytics": "^1.0.1",
-    "rxjs": "^6.5.4",
+    "rxjs": "^6.5.5",
     "zone.js": "^0.10.3"
   }
 }
