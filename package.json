@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@angular/common": "^10.0.3",
-    "@angular/core": "^10.0.2",
+    "@angular/core": "^10.0.3",
     "@dagonmetric/ng-config": "^4.2.2",
     "@dagonmetric/ng-config-firebase-remote-config": "^4.2.3",
     "@dagonmetric/ng-log": "^2.2.6",
